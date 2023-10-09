@@ -1,0 +1,43 @@
+[
+    {
+      "title": "Introduction to CMS Blog",
+      "content": "This is an introductory blog post about CMS-style blogs.",
+      "user_id": 1
+    },
+    {
+      "title": "Getting Started with Express.js",
+      "content": "In this blog post, we'll learn how to get started with Express.js.",
+      "user_id": 2
+    },
+    {
+      "title": "The Importance of Data Security",
+      "content": "In today's digital world, data security is crucial. Let's explore why.",
+      "user_id": 3
+    },
+    {
+      "title": "Building a Scalable Application",
+      "content": "Scalability is a key factor in modern web applications. Here are some tips.",
+      "user_id": 1
+    },
+    {
+      "title": "Web Design Trends in 2023",
+      "content": "Discover the latest web design trends shaping the online world in 2023.",
+      "user_id": 4
+    },
+    {
+      "title": "JavaScript Frameworks Comparison",
+      "content": "A detailed comparison of popular JavaScript frameworks: React, Vue, and Angular.",
+      "user_id": 5
+    },
+    {
+      "title": "The Future of AI in Healthcare",
+      "content": "Explore the potential of artificial intelligence in revolutionizing healthcare.",
+      "user_id": 6
+    },
+    {
+      "title": "E-commerce Growth Strategies",
+      "content": "Learn effective strategies to drive growth in your e-commerce business.",
+      "user_id": 7
+    }
+  ]
+  

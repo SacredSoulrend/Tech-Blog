@@ -1,0 +1,43 @@
+[
+    {
+      "text": "Great article!",
+      "user_id": 1,
+      "post_id": 1
+    },
+    {
+      "text": "I have a question...",
+      "user_id": 2,
+      "post_id": 1
+    },
+    {
+      "text": "Nice work!",
+      "user_id": 3,
+      "post_id": 2
+    },
+    {
+      "text": "I completely agree!",
+      "user_id": 4,
+      "post_id": 2
+    },
+    {
+      "text": "This was very helpful!",
+      "user_id": 5,
+      "post_id": 3
+    },
+    {
+      "text": "Could you explain this part in more detail?",
+      "user_id": 1,
+      "post_id": 3
+    },
+    {
+      "text": "I had a similar experience!",
+      "user_id": 6,
+      "post_id": 4
+    },
+    {
+      "text": "Thanks for sharing!",
+      "user_id": 7,
+      "post_id": 4
+    }
+  ]
+  
